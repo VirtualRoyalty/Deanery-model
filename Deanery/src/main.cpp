@@ -1,12 +1,6 @@
  
 #include "lab5.h"
 
-#include <fstream>
-
-using namespace std;
-
-
-
 int main()
 {
 	
